@@ -29,14 +29,14 @@ def akar(bil):
     print("hasil akar kuadrat dari", bil, "=", hasil)
 
 def sin(nilai):
-    hasil = math.sin(nilai)
+    hasil = math.sin(math.radians(nilai))
     print("hasil sin dari", nilai, "=", hasil)
 
 def cos(nilai):
-    hasil = math.cos(nilai)
+    hasil = math.cos(math.radians(nilai)) 
     print("hasil cos dari", nilai, "=", hasil)
 
 def tan(nilai):
-    hasil = math.tan(nilai)
+    hasil = math.tan(math.radians(nilai))
     print("hasil tan dari", nilai, "=", hasil)
 

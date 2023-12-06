@@ -9,9 +9,9 @@ kali(10, 10)
 bagi(100, 2)
 logaritma(20)
 akar(20)
-sin(20)
-cos(20)
-tan(20)
+sin(30)
+cos(30)
+tan(30)
 
 print()
 
